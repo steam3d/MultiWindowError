@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MultiWindowError (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MultiWindowError (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
